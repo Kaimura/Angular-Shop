@@ -1,0 +1,18 @@
+table {
+    width: 100%
+}
+th {
+    cursor: pointer;
+}
+
+td {
+    width:33%;
+}
+
+thead {
+    background-color: #efefef;
+}
+
+tbody {
+    text-align: center;
+}
